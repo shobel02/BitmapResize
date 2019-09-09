@@ -1,0 +1,2 @@
+# BitmapSimpleResize
+画像ファイルを手軽にリサイズ等の加工ができる
